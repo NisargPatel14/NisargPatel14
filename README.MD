@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek41" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nisarg-patel-bb4a8122b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="NisargPatel14" height="30" width="40" /></a>
 <a href="https://instagram.com/14_nisarg_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="14_nisarg_06" height="30" width="40" /></a>
-<a href="https://twitter.com/NisargJPatel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe39969350" height="30" width="40" /></a>
-<a href="https://leetcode.com/Nisarg_Patel14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek_nayak_" height="30" width="40" /></a>
+<a href="https://twitter.com/NisargJPatel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NisargJPatel1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Nisarg_Patel14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="NisargPatel14" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPatel14 &" alt="NisargPatel14"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPatel14" alt="NisargPatel14"/></p>
